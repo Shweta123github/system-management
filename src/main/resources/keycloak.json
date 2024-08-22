@@ -1,0 +1,12 @@
+{
+  "realm": "event-realm",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "event-client",
+  "credentials": {
+    "secret": "erkLLtD7lrXx3JshIxq8NMK2gSV3Bevk"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "principal-attribute": "preferred_username"
+}
